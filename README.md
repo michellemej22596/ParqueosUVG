@@ -1,2 +1,2 @@
 # ParqueosUVG
-Silvia Illescas y Michelle Mejía
+Silvia Illescas, Daniel Estrada y Michelle Mejía
